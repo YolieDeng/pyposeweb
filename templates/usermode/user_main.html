@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>{% block title %} 用户主页 {% endblock %}</h1>
+<div class=''>
+    <h2><a href="{{ url_for('usermode.update_userInfo') }}">修改用户信息</a></h2>
+    <div class=''>
+        <h3>用户名：{{ user_info[1] }}</h3>
+        <h3>密码：{{ user_info[2] }}</h3>
+    </div>
+</div>
+{% endblock %}

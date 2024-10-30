@@ -1,0 +1,32 @@
+#formFile-container {
+    width: 60%;
+    margin-top: 3%;
+    margin-left: 20%;
+}
+
+#preview-container {
+    margin-top: 6%;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    width: 60%;
+    height: 400px;
+    margin-left: 20%;
+}
+
+#preview {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+    /* 保持图片宽高比 */
+    display: block;
+    /* 防止底部有空白间隙 */
+    margin: 0 auto;
+    /* 居中显示 */
+}
+
+.videoPage {
+    margin-top: 7%;
+    /* border-style:solid;
+    border-width:1px; */
+}

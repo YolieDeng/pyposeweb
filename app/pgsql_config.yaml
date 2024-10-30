@@ -1,0 +1,4 @@
+host: localhost
+dbname: postgres
+username: postgres
+password: pyposeweb

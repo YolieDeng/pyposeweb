@@ -1,0 +1,66 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+#formFile-container {
+    width: 60%;
+    margin-top: 3%;
+    margin-left: 20%;
+}
+
+.imagePage {
+    display: flex;
+    margin-top: 7%;
+    height: 580px;
+}
+
+.imageUpload {
+    width: 50%;
+    border: 2px solid #ccc; 
+    border-radius: 8px;
+    margin-left: 20px;
+    padding: 20px;
+    box-sizing: border-box; 
+}
+
+.Histogram {
+    margin-left: 30px;
+    width: 40%;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box; 
+}
+
+#preview-container {
+    margin-top: 6%;
+    padding: 20px;
+    border-radius: 8px; 
+    width: 60%;
+    height: 70%;
+    margin-left: 20%;
+    box-sizing: border-box; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #ccc;
+}
+
+#preview {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    border-radius: 8px;
+}
+
+
+#canvas_pose {
+    max-width: 100%;
+    max-height: 100%;
+    display: inline-flex;
+}
+

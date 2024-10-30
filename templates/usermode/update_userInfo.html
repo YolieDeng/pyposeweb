@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>{% block title %} 用户主页 {% endblock %}</h1>
+<div class=''>
+    <form method="post">
+        <p>
+            <label for="username">用户名</label>
+            <input type="text" name="username" placeholder="{{ user_info[1] }}">
+            </input>
+        </p>
+
+        <p>
+            <label for="password">密码</label>
+            <input type="text" name="password" placeholder="{{ user_info[2] }}">
+            </input>
+        </p>
+
+        <p>
+            <button type="submit">修改</button>
+        </p>
+    </form>
+</div>
+{% endblock %}
