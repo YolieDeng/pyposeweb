@@ -164,5 +164,5 @@ flask --app py-pose-web run
 📌 如需引用 Py Pose Web，请在相关文章的**参考文献**中加入下面文字：
 
 ```
-曾逸夫, 邓乙华 (2024) Py Pose Web.https://gitee.com/intelligence-vision/py-pose-web.git
+曾逸夫, 邓乙华 (2024) Py Pose Web.https://github.com/YolieDeng/pyposeweb.
 ```
