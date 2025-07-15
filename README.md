@@ -1,8 +1,4 @@
 <p align="center">
-<a href="https://gitee.com/intelligence-vision/face-vectordb-login">
-<img src="https://pycver.gitee.io/ows-pics/imgs/pyposeweb_logo.png" alt="Simple Icons" >
-</a>
-<p align="center">
     基于 Ultralytics YOLOv8 和 Flask Blueprints 的姿态估计的智能 Web 项目
 </p>
 </p>
@@ -29,11 +25,9 @@
 
 曾逸夫，从事人工智能研究与开发；主研领域：计算机视觉；[YOLOv8官方开源项目代码贡献人](https://github.com/ultralytics/ultralytics/graphs/contributors)；[YOLOv5官方开源项目代码贡献人](https://github.com/ultralytics/yolov5/graphs/contributors)；[YOLOv5 v6.1代码贡献人](https://github.com/ultralytics/yolov5/releases/tag/v6.1)；[YOLOv5 v6.2代码贡献人](https://github.com/ultralytics/yolov5/releases/tag/v6.2)；[YOLOv5 v7.0代码贡献人](https://github.com/ultralytics/yolov5/releases/tag/v7.0)；[Gradio官方开源项目代码贡献人](https://github.com/gradio-app/gradio/graphs/contributors)
 
-✨  Github：https://github.com/Zengyf-CVer
-
 ### 👩‍🎓 学生
 
-邓乙华，从事计算机视觉的研究和JavaScript项目的开发。
+邓乙华，从事人工智能应用开发；主要研究领域：大模型能力增强、智能体通信机制、跨模态数据处理与生成式系统设计
 
 <h2 align="center">🚀更新走势</h2>
 
@@ -42,71 +36,7 @@
 
 <h2 align="center">💎项目流程与用途</h2>
 
-### 📌 项目整体流程
-
-<div align="center" >
-<img src="https://pycver.gitee.io/ows-pics/imgs/pyposeweb_workflow.png">
-</div>
-
-### 📌 Py Pose Web 系统界面
-
-#### ❤️ Py Pose Web 主页
-
-<div align="center" >
-<img src="https://pycver.gitee.io/ows-pics/imgs/pyposeweb_index.png">
-</div>
-
-#### ❤️ Py Pose Web 注册页面
-
-<div align="center" >
-<img src="https://pycver.gitee.io/ows-pics/imgs/pyposeweb_register.png">
-</div>
-
-#### ❤️ Py Pose Web 登录页面
-
-<div align="center" >
-<img src="https://pycver.gitee.io/ows-pics/imgs/pyposeweb_login.png">
-</div>
-
-#### ❤️ Py Pose Web 图片姿态估计页面
-
-<div align="center" >
-<img src="https://pycver.gitee.io/ows-pics/imgs/pyposeweb_img.png">
-</div>
-<div align="center" >
-示例界面01
-</div>
-
-<div align="center" >
-<img src="https://pycver.gitee.io/ows-pics/imgs/pyposeweb_img02.png">
-</div>
-<div align="center" >
-示例界面02
-</div>
-
-#### ❤️ Py Pose Web 视频姿态估计页面
-
-<div align="center" >
-<img src="https://pycver.gitee.io/ows-pics/imgs/pyposeweb_video.png">
-</div>
-<div align="center" >
-示例界面01
-</div>
-
-<div align="center" >
-<img src="https://pycver.gitee.io/ows-pics/imgs/pyposeweb_video02.png">
-</div>
-<div align="center" >
-示例界面02
-</div>
-
-#### ❤️ Py Pose Web 实时姿态估计页面
-
-<div align="center" >
-<img src="https://pycver.gitee.io/ows-pics/imgs/pyposeweb_webcam.png">
-</div>
-
-<h2 align="center">💡项目结构</h2>
+### 💡 项目结构
 
 ```
 .
@@ -211,17 +141,8 @@ flask --app py-pose-web run
 
 ### 📝 项目引用指南
 
-📌 如需引用 Py Pose Web v1.0.0，请在相关文章的**参考文献**中加入下面文字：
+📌 如需引用 Py Pose Web，请在相关文章的**参考文献**中加入下面文字：
 
 ```
-曾逸夫, 邓乙华 (2024) Py Pose Web (Version 1.0.0).https://gitee.com/intelligence-vision/py-pose-web.git
+曾逸夫, 邓乙华 (2024) Py Pose Web.https://gitee.com/intelligence-vision/py-pose-web.git
 ```
-
-### 💬 技术交流
-
-- 如果你发现任何 Py Pose Web 存在的问题或者是建议, 欢迎通过[Gitee Issues](https://gitee.com/intelligence-vision/py-pose-web/issues)给我提issues。
-- 欢迎加入Intelligence Vision技术交流群
-
-<div align="center" >
-<img src="https://pycver.gitee.io/ows-pics/imgs/IntelligenceVisionGroup.jpg" width="20%">
-</div>
